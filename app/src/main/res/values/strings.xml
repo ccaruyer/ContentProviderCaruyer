@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContentProviderCaruyer</string>
+    <string name="btnTest">TEST</string>
 </resources>
